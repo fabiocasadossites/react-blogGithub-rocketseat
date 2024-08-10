@@ -6,7 +6,7 @@ Neste projeto, desenvolvi um blog baseado na api do github com as publicações 
 
 ### Veja o projeto online
 
-🚀 [Link do projeto online](https://blog-github-21s7opzjc-fabiocasadossites-projects.vercel.app/)
+🚀 [Link do projeto online](https://blog-github-gamma.vercel.app/)
 
 ### Tecnologias Utilizadas
 
